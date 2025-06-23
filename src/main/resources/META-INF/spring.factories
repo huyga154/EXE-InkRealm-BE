@@ -1,0 +1,1 @@
+org.springframework.context.ApplicationContextInitializer=fe.be_inkrealm_demo2.config.DotenvInitializer
